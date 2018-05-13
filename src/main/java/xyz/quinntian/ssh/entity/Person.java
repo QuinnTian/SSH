@@ -4,6 +4,7 @@ package xyz.quinntian.ssh.entity;
 
 import javax.persistence.*;
 
+
 import lombok.Data;
 /**
  * Created by XRog
